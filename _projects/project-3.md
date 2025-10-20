@@ -1,6 +1,6 @@
 ---
 title: "MRFF–COVIU (Digital Health)"
-excerpt: "Designed an image segmentation model for diabetic foot ulcer detection to assist clinical decision-making. The model supports consistent, timely, and cost-effective wound assessment. (The wound example images used in this slide is from public available dataset.)<br/><img src='/images/health.png'>"
+excerpt: "Designed an image segmentation model for diabetic foot ulcer detection to assist clinical decision-making. The model supports consistent, timely, and cost-effective wound assessment. (The wound example images used in this slide are from public available dataset.)<br/><img src='/images/health.png'>"
 collection: project
 ---
 
