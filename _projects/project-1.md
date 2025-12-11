@@ -1,5 +1,5 @@
 ---
-title: "Generative AI (Deep Scene Understanding for Robotics Navigation)"
+title: "Generative AI: Deep Scene Understanding for Robotics Navigation"
 excerpt: "Developed a conditional diffusion–based data augmentation framework for marine obstacle
 detection, aimed at improving segmentation robustness under visually challenging conditions. The pipeline
 combines a class-aware style bank to generates high-entropy, semantically grounded prompts with an
