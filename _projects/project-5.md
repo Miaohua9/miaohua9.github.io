@@ -1,6 +1,6 @@
 ---
 title: "AI for Navigation"
-excerpt: "Collision avoidance is a critical capability in autonomous navigation, especially in dynamic or resource-constrained environments. However, high-performing object detection models are often computationally intensive and difficult to deploy in real-time systems. This project aims to address this gap by developing an efficient object detection framework based on Transformers, enhanced with knowledge distillation to balance accuracy and lightweight deployment.. <br/><img src='/images/detection.png'>"
+excerpt: "Collision avoidance is a critical capability in autonomous navigation, especially in dynamic or resource-constrained environments. However, high-performing object detection models are often computationally intensive and difficult to deploy in real-time systems. This project aims to address this gap by developing an efficient object detection framework based on Transformers, enhanced with knowledge distillation to balance accuracy and lightweight deployment.. <br/><img src='/images/detection.png' style='margin-top: 15px;'>"
 collection: projects
 ---
 
