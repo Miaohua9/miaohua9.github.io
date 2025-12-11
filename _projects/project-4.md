@@ -1,5 +1,5 @@
 ---
-title: "MRFF–COVIU (Digital Health)"
+title: "Digital Health: Develop an AI-Based Digital Wound Assessment Tool"
 excerpt: "This project addresses the growing need for reliable and efficient wound assessment in aged care, where diabetic foot ulcers are a common and high-risk condition. We developed an image segmentation model tailored for diabetic foot ulcer detection to support clinical decision-making. The goal is to enable consistent, timely, and cost-effective wound monitoring, reducing the burden on healthcare providers while improving outcomes for elderly patients. (The wound example images used in this slide are from public available dataset.)<br/><img src='/images/health.png' style='margin-top: 15px;'>"
 collection: project
 ---
