@@ -1,6 +1,6 @@
 ---
 title: "AI for Mission: Efficient Atmospheric Correction for Onboard Processing"
-excerpt: "Developed an efficient atmospheric correction model to enhance the reliability and efficiency of satellite-based monitoring systems, supporting applications in agriculture, climate analysis, and emergency response. <br/><img src='/images/AC_work_flow.png'>"
+excerpt: "Developed an efficient atmospheric correction model to enhance the reliability and efficiency of satellite-based monitoring systems, supporting applications in agriculture, climate analysis, and emergency response. <br/><img src='/images/AC_work_flow.png' style='margin-top: 15px;'>"
 collection: project
 paperurl: 'https://ieeexplore.ieee.org/document/10869604'
 projecturl: 'https://miaohua9.github.io/Atmospheric-Correction-with-Knowledge-Distillation/' 
