@@ -1,6 +1,12 @@
 ---
-title: "CPSSR-QWR (AI for Navigation)"
-excerpt: "Developed a data expansion method to improve scene understanding for navigation AI in low-data, real-world environments. Applications include autonomous navigation and smart port management.<br/><img src='/images/navigation.png'>"
+title: "Generative AI (Deep Scene Understanding for Robotics Navigation via Mask-Conditioned Generative AI)"
+excerpt: "Developed a conditional diffusion–based data augmentation framework for marine obstacle
+detection, aimed at improving segmentation robustness under visually challenging conditions. The pipeline
+combines a class-aware style bank to generates high-entropy, semantically grounded prompts with an
+adaptive annealing sampler that perturbs early conditioning. A guided controller further regulates this
+perturbation to enhance diversity while preserving layout fidelity. The resulting synthetic images are
+layout-aligned and semantically varied, improving generalization performance in downstream segmentation
+tasks, particularly for rare or texture-sensitive classes.<br/><img src='/images/navigation.png'>"
 collection: project
 ---
 
