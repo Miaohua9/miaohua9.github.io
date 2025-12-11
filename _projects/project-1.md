@@ -6,7 +6,7 @@ combines a class-aware style bank to generates high-entropy, semantically ground
 adaptive annealing sampler that perturbs early conditioning. A guided controller further regulates this
 perturbation to enhance diversity while preserving layout fidelity. The resulting synthetic images are
 layout-aligned and semantically varied, improving generalization performance in downstream segmentation
-tasks, particularly for rare or texture-sensitive classes.<br/><img src='/images/navigation.png'>"
+tasks, particularly for rare or texture-sensitive classes.<br/><img src='/images/navigation.png' style='margin-top: 15px;'>"
 collection: project
 ---
 
