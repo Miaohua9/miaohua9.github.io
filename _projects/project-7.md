@@ -4,7 +4,7 @@ excerpt: >
   This project addresses key challenges in precision agriculture where labeled data is limited and plant disease categories are visually similar. We developed several machine learning frameworks to enhance model generalization and robustness, including cross-domain few-shot learning via Sample Relationship Learning (SRL), few-shot class-incremental learning (FSCIL) with dynamic feature refinement (e.g., PFR, DyCR), and ultra-fine-grained categorization approaches such as CECS and SSFE-Net. These methods incorporate self-supervised learning, frequency- and region-aware augmentation, and compositional similarity learning to detect subtle visual differences in plant diseases—while mitigating overfitting and catastrophic forgetting. The proposed frameworks support scalable, data-efficient plant health monitoring for real-world agricultural applications.
 
   <br/><br/>
-  <strong>Related Publications:</strong>
+  <strong>Achievements:</strong>
     <li>
       <strong>1,</strong> <strong>M. Zhang</strong>, X. Yu, Y. Gao, Z. Pan, J. Zhou,  
       <em>“Learning Sample Relationship for Cross-Domain Few-Shot Learning”</em>,  
