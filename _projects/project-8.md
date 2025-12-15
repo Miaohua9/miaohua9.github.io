@@ -4,7 +4,7 @@ excerpt: >
   This work focuses on developing robust machine learning algorithms to address challenges from noisy, incomplete, or corrupted data. I designed models based on low-rank regression, tensor factorization, and sparse representation to improve stability and accuracy under data degradation. To enhance robustness, I introduced adaptive weighting and regularization strategies that automatically downweight abnormal or outlier samples during training, improving predictive performance and interpretability. These approaches are especially useful in real-world scenarios with inconsistent data quality or unreliable labels.
 
   <br/><br/>
-  <strong>Related Publications:</strong>
+  <strong>Achievements:</strong>
     <li>
       <strong>1,</strong> <strong>M. Zhang</strong>, Y. Gao, J. Zhou, 
       <em>“A Generalized Kernel Risk Sensitive Loss for Robust Two-Dimensional Singular Value Decomposition”</em>, 
