@@ -6,31 +6,31 @@ excerpt: >
   <br/><br/>
   <strong>Achievements:</strong>
     <li>
-      <strong>1,</strong> <strong>M. Zhang</strong>, X. Yu, Y. Gao, Z. Pan, J. Zhou,  
+       <strong>M. Zhang</strong>, X. Yu, Y. Gao, Z. Pan, J. Zhou,  
       <em>“Learning Sample Relationship for Cross-Domain Few-Shot Learning”</em>,  
       SSRN.  
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452073" target="_blank">SSRN 4452073</a>
     </li>
     <li>
-      <strong>2,</strong> Z. Pan, X. Yu, <strong>M. Zhang</strong>, W. Zhang, Y. Gao,  
+       Z. Pan, X. Yu, <strong>M. Zhang</strong>, W. Zhang, Y. Gao,  
       <em>“DyCR: A Dynamic Clustering and Recovering Network for Few-Shot Class-Incremental Learning”</em>,  
       IEEE Transactions on Neural Networks and Learning Systems, Vol. 36(4), pp. 7116–7129.  
       <a href="https://ieeexplore.ieee.org/document/10531293" target="_blank">IEEE Xplore</a>
     </li>
     <li>
-      <strong>3,</strong> Z. Pan, W. Zhang, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
+       Z. Pan, W. Zhang, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
       <em>“Pseudo-Set Frequency Refinement Architecture for Fine-Grained Few-Shot Class-Incremental Learning”</em>,  
       Pattern Recognition, Vol. 155, 110686.  
       <a href="https://www.sciencedirect.com/science/article/pii/S0031320324004370" target="_blank">DOI</a>
     </li>
     <li>
-      <strong>4,</strong> Z. Pan, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
+      Z. Pan, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
       <em>“SSFE-Net: Self-Supervised Feature Enhancement for Ultra-Fine-Grained Few-Shot Class-Incremental Learning”</em>,  
       Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023.  
       <a href="https://ieeexplore.ieee.org/document/10030400" target="_blank">CVF Open Access</a>
     </li>
     <li>
-      <strong>5,</strong> Z. Pan, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
+       Z. Pan, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
       <em>“Mask-Guided Feature Extraction and Augmentation for Ultra-Fine-Grained Visual Categorization”</em>,  
       DICTA 2021 – Digital Image Computing: Techniques and Applications, pp. 1–8.  
       <a href="https://arxiv.org/abs/2109.07755" target="_blank">IEEE Xplore</a>
