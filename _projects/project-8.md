@@ -53,5 +53,6 @@ excerpt: >
       ICPR 2016 – International Conference on Pattern Recognition, pp. 4184–4189. 
       <a href="https://ieeexplore.ieee.org/document/7900290">IEEE Xplore</a>
     </li>
+    <br/><img src='/images/robust_learning.png' style='margin-top: 15px;'>
 collection: projects
 ---
