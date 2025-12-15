@@ -29,7 +29,7 @@ excerpt: >
       International Journal of Distributed Sensor Networks, Vol. 9(2), 203719.  
       <a href="https://journals.sagepub.com/doi/10.1155/2013/203719" target="_blank">SAGE Journals</a>
     </li>
-
+<br/><img src='/images/statistic_applications.png' style='margin-top: 15px;'>
 collection: projects
 ---
 
