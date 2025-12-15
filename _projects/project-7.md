@@ -41,6 +41,5 @@ excerpt: >
       DICTA 2021 – Digital Image Computing: Techniques and Applications, pp. 1–8.  
       <a href="https://arxiv.org/abs/2109.12380" target="_blank">IEEE Xplore</a>
     </li>
-    <br/><img src='/images/cross_domain.png' style='margin-top: 15px;'>
 collection: projects
 ---
