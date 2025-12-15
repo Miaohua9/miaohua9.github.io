@@ -3,7 +3,7 @@ title: "AI for Precision Agriculture"
 excerpt: >
   This project is supported by the Griffith–CSIRO R+ PhD Scholarship Program and focuses on plant disease detection using self-supervised learning and Vision Mamba architectures, which are well-suited for modeling long-range dependencies in leaf structures.
 
-  To date, we have developed three frameworks:
+  To date, we have developed three works:
   <ul>
     <li><strong>ConMamba: </strong>: <a href="https://arxiv.org/pdf/2506.03213?">arXiv:2506.03213</a></li>
     <li><strong>Plant Disease Detection Review</strong>: <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10714333">arXiv:2506.03693</a></li>
