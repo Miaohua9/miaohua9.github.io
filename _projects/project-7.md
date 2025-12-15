@@ -5,7 +5,6 @@ excerpt: >
 
   <br/><br/>
   <strong>Related Publications:</strong>
-  <ul>
     <li>
       <strong>1:</strong> <strong>M. Zhang</strong>, Y. Gao, J. Zhou, 
       <em>“A Generalized Kernel Risk Sensitive Loss for Robust Two-Dimensional Singular Value Decomposition”</em>, 
@@ -54,7 +53,6 @@ excerpt: >
       ICPR 2016 – International Conference on Pattern Recognition, pp. 4184–4189. 
       <a href="https://ieeexplore.ieee.org/document/7900290">IEEE Xplore</a>
     </li>
-  </ul>
 
   <br/><img src='/images/robust_learning.png' style='margin-top: 15px;'>
 collection: projects
