@@ -15,31 +15,31 @@ excerpt: >
       <strong>2,</strong> Z. Pan, X. Yu, <strong>M. Zhang</strong>, W. Zhang, Y. Gao,  
       <em>“DyCR: A Dynamic Clustering and Recovering Network for Few-Shot Class-Incremental Learning”</em>,  
       IEEE Transactions on Neural Networks and Learning Systems, Vol. 36(4), pp. 7116–7129.  
-      <a href="https://ieeexplore.ieee.org/document/10013816" target="_blank">IEEE Xplore</a>
+      <a href="https://ieeexplore.ieee.org/document/10531293" target="_blank">IEEE Xplore</a>
     </li>
     <li>
       <strong>3,</strong> Z. Pan, W. Zhang, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
       <em>“Pseudo-Set Frequency Refinement Architecture for Fine-Grained Few-Shot Class-Incremental Learning”</em>,  
       Pattern Recognition, Vol. 155, 110686.  
-      <a href="https://doi.org/10.1016/j.patcog.2024.110686" target="_blank">DOI</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0031320324004370" target="_blank">DOI</a>
     </li>
     <li>
       <strong>4,</strong> Z. Pan, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
       <em>“SSFE-Net: Self-Supervised Feature Enhancement for Ultra-Fine-Grained Few-Shot Class-Incremental Learning”</em>,  
       Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023.  
-      <a href="https://openaccess.thecvf.com/content/WACV2023/html/Pan_SSFE-Net_Self-Supervised_Feature_Enhancement_for_Ultra-Fine-Grained_Few-Shot_Class-Incremental_Learning_WACV_2023_paper.html" target="_blank">CVF Open Access</a>
+      <a href="https://ieeexplore.ieee.org/document/10030400" target="_blank">CVF Open Access</a>
     </li>
     <li>
       <strong>5,</strong> Z. Pan, X. Yu, <strong>M. Zhang</strong>, Y. Gao,  
       <em>“Mask-Guided Feature Extraction and Augmentation for Ultra-Fine-Grained Visual Categorization”</em>,  
       DICTA 2021 – Digital Image Computing: Techniques and Applications, pp. 1–8.  
-      <a href="https://ieeexplore.ieee.org/document/9647144" target="_blank">IEEE Xplore</a>
+      <a href="https://arxiv.org/abs/2109.07755" target="_blank">IEEE Xplore</a>
     </li>
     <li>
       <strong>6,</strong> Y. Sun, <strong>M. Zhang</strong>, X. Yu, Y. Liao, Y. Gao,  
       <em>“A Compositional Feature Embedding and Similarity Metric for Ultra-Fine-Grained Visual Categorization”</em>,  
       DICTA 2021 – Digital Image Computing: Techniques and Applications, pp. 1–8.  
-      <a href="https://ieeexplore.ieee.org/document/9647183" target="_blank">IEEE Xplore</a>
+      <a href="https://arxiv.org/abs/2109.12380" target="_blank">IEEE Xplore</a>
     </li>
     <br/><img src='/images/cross_domain.png' style='margin-top: 15px;'>
 collection: projects
