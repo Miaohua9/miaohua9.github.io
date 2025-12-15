@@ -4,7 +4,7 @@ excerpt: >
   This project focuses on developing robust statistical machine learning methods to handle real-world data challenges such as outliers, corrupted labels, incomplete observations, and noise. We designed solutions that integrate shape fitting, sparse representation, distributed learning, and sensor modeling to improve model reliability and interpretability under adverse data conditions. Applications include curve and shape fitting in industrial control systems, image denoising, and signal processing in distributed environments. The techniques developed here are particularly valuable in fields like computer vision, manufacturing, and wireless sensor networks where data uncertainty is common.
 
   <br/><br/>
-  <strong>Related Publications:</strong>
+  <strong>Achievements:</strong>
     <li>
       J. Liang, <strong>M. Zhang</strong>, D. Liu, X. Zeng, O. Ojowu, K. Zhao, Z. Li, H. Liu,  
       <em>“Robust Ellipse Fitting Based on Sparse Combination of Data Points”</em>,  
