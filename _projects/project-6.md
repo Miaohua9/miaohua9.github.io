@@ -25,7 +25,6 @@ excerpt: >
     </li>
 
   <br/>
-  These works aim to support <strong>early plant disease detection</strong> in <strong>low-label agricultural settings</strong> through scalable, high-resolution visual understanding.
   <br/><img src='/images/plant_disease.png' style='margin-top: 15px;'>
 collection: projects
 ---
