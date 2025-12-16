@@ -5,6 +5,10 @@ excerpt: >
 
   <br/><br/>
   <strong>Achievements:</strong>
+  <li>
+       A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
+      <em>“PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition”</em>,  
+    </li>
     <li>
        A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
       <em>“StateSpace-SSL: Linear-Time Self-Supervised Learning for Plant Disease Detection”</em>,  
