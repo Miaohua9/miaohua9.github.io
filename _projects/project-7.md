@@ -36,7 +36,7 @@ excerpt: >
       <a href="https://arxiv.org/abs/2109.07755" target="_blank">IEEE Xplore</a>
     </li>
     <li>
-      <strong>6,</strong> Y. Sun, <strong>M. Zhang</strong>, X. Yu, Y. Liao, Y. Gao,  
+      Y. Sun, <strong>M. Zhang</strong>, X. Yu, Y. Liao, Y. Gao,  
       <em>“A Compositional Feature Embedding and Similarity Metric for Ultra-Fine-Grained Visual Categorization”</em>,  
       DICTA 2021 – Digital Image Computing: Techniques and Applications, pp. 1–8.  
       <a href="https://arxiv.org/abs/2109.12380" target="_blank">IEEE Xplore</a>
