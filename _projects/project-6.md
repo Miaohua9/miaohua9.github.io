@@ -8,6 +8,7 @@ excerpt: >
     <li>
        A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
       <em>“PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition”</em>,
+      Pattern Recognition, Under Review,  
       <a href="https://arxiv.org/abs/2512.14309" target="_blank">arXiv:2512.14309</a>
     </li>
     <li>
@@ -19,7 +20,7 @@ excerpt: >
     <li>
        A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
       <em>“ConMamba: Contrastive Vision Mamba for Plant Disease Detection”</em>,  
-      arXiv preprint.  
+      Pattern Recognition, Under Review,  
       <a href="https://arxiv.org/pdf/2506.03213" target="_blank">arXiv:2506.03213</a>
     </li>
     <li>
