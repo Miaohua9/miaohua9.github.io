@@ -8,6 +8,7 @@ perturbation to enhance diversity while preserving layout fidelity. The resultin
 layout-aligned and semantically varied, improving generalization performance in downstream segmentation
 tasks, particularly for rare or texture-sensitive classes.<br/><img src='/images/navigation.png' style='margin-top: 15px;'>"
 collection: project
+paperurl: 'https://arxiv.org/abs/2512.13970'
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
