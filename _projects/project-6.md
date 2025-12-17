@@ -29,7 +29,6 @@ excerpt: >
       IEEE Access.  
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10714333" target="_blank">IEEE Xplore</a>
     </li>
-  <br/>
   <br/><img src='/images/plant_disease.png' style='margin-top: 15px;'>
 collection: projects
 ---
