@@ -258,7 +258,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _continue_learning
   - scope:
       path: ""
       type: continue_learning
