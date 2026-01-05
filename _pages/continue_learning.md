@@ -5,7 +5,7 @@ permalink: /continue_learning/
 author_profile: true
 ---
 
-### 📚 Continue Completed
+### 📚 Course Completed
 
 | Course Title                          | Source           | Completed Date | Key Skills                                                                 |
 |---------------------------------------|------------------|----------------|----------------------------------------------------------------------------|
