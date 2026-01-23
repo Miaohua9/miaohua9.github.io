@@ -9,6 +9,7 @@ layout-aligned and semantically varied, improving generalization performance in 
 tasks, particularly for rare or texture-sensitive classes.<br/><img src='/images/navigation.png' style='margin-top: 15px;'>"
 collection: project
 paperurl: 'https://arxiv.org/abs/2512.13970'
+projecturl: 'https://miaohua9.github.io/Generative-AI-Deep-Scene-Understanding-for-Robotics-Navigation-via-Mask-Conditioned-Generative-AI/'
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
