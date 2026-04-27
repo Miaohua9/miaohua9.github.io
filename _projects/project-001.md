@@ -9,7 +9,7 @@ regression tests to improve terminology accuracy and output stability. The assis
 workflow needs and can potentially reduce full case documentation time from about 10 minutes of manual
 typing to 1–2 minutes with voice input and quick review. <br/><img src='/images/meditalk_multi_agent_architecture.png' style='margin-top: 15px;'>"
 collection: project
-date: 2026-04-27
+date: 2026-04-15
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
