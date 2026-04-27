@@ -7,7 +7,7 @@ transcription quality for clinical terminology and medication details. A multi-a
 clinical information extraction, report generation, and validation, with grounding guardrails to reduce hallucinations and 
 regression tests to improve terminology accuracy and output stability. The assistant is designed around real outpatient 
 workflow needs and can potentially reduce full case documentation time from about 10 minutes of manual
-typing to 1–2 minutes with voice input and quick review.<img width="468" height="166" alt="image" src="https://github.com/user-attachments/assets/24367b5b-5a53-489e-9a4a-f4f8e3aefbee" />
+typing to 1–2 minutes with voice input and quick review.<img src="https://github.com/user-attachments/assets/24367b5b-5a53-489e-9a4a-f4f8e3aefbee" />
 .<br/><img src='/images/meditalk_multi_agent_architecture.png' style='margin-top: 15px;'>"
 collection: project
 date: 2026-04-27
