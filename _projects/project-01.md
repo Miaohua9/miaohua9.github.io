@@ -8,6 +8,7 @@ perturbation to enhance diversity while preserving layout fidelity. The resultin
 layout-aligned and semantically varied, improving generalization performance in downstream segmentation
 tasks, particularly for rare or texture-sensitive classes.<br/><img src='/images/navigation.png' style='margin-top: 15px;'>"
 collection: project
+date:2026-01-06
 paperurl: 'https://arxiv.org/abs/2512.13970'
 projecturl: 'https://miaohua9.github.io/Generative-AI-Deep-Scene-Understanding-for-Robotics-Navigation-via-Mask-Conditioned-Generative-AI/'
 ---
