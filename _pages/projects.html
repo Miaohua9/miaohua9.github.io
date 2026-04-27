@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% comment %} 
-  This line captures the projects, sorts them by date, 
-  and reverses them so the newest date is first.
-{% endcomment %}
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 
 {% for post in site.projects %}
