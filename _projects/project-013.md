@@ -1,5 +1,5 @@
 ---
-title: "MediTalk: A Multi-Agent Speech-to-Note Assistant for Clinical Documentation"
+title: "MediTalk(CCM-HealthDoc): A Multi-Agent Speech-to-Note Assistant for Clinical Documentation"
 excerpt: "Developed MediTalk, a bilingual speech-to-note clinical documentation assistant for an ACT clinic that converts 
 complete voice dictation into structured clinical reports and SOAP-style notes. The system combines real-time STT fallback, 
 LLM-based post-correction, domain-specific hotword vocabularies, homophone disambiguation, and dosage normalization to improve 
