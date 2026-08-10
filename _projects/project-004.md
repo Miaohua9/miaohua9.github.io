@@ -9,7 +9,7 @@ excerpt: >
   A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
   <em>“PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition”</em>,
   Expert Systems with Applications, 133775, 2026,  
-  <a href="https://www.sciencedirect.com/science/article/pii/S0957417426026837" target="_blank"ScienceDirect</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0957417426026837" target="_blank">ScienceDirect</a>
     </li>
     <li>
        A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
