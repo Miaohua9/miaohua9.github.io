@@ -5,12 +5,12 @@ excerpt: >
 
   <br/><br/>
   <strong>Achievements:</strong>
-    <li>
-       A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
-      <em>“PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition”</em>,
-      Expert Systems with Applications, 133775, 2026,  
-      <a href="https://www.sciencedirect.com/science/article/pii/S0957417426026837"</a>
-    </li>
+   <li>
+  A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
+  <em>“PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition”</em>,
+  Expert Systems with Applications, 133775, 2026,  
+  <a href="https://www.sciencedirect.com/science/article/pii/S0957417426026837" target="_blank" rel="noopener noreferrer">ScienceDirect</a>
+</li>
     <li>
        A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
       <em>“StateSpace-SSL: Linear-Time Self-Supervised Learning for Plant Disease Detection”</em>,  
