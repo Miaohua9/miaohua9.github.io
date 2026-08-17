@@ -1,5 +1,5 @@
 ---
-title: "AI for Precision Agriculture"
+title: "AI for Precision Agriculture -- Early-Career Scientist Supervision"
 excerpt: >
   This project is supported by the <strong>Griffith–CSIRO R+ PhD Scholarship Program</strong> and focuses on plant disease detection using <strong>self-supervised learning</strong> and <strong>Vision Mamba</strong> architectures, which are well-suited for modeling long-range dependencies in leaf structures. The work targets real-world agricultural scenarios where labeled data is limited and disease symptoms are subtle.
 
