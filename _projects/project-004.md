@@ -6,6 +6,12 @@ excerpt: >
   <br/><br/>
   <strong>Achievements:</strong>
    <li>
+       A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
+      <em>“ConMamba: Contrastive Vision Mamba for Plant Disease Detection”</em>,  
+      Pattern Recognition, 2026,
+      <a href="https://www.sciencedirect.com/science/article/pii/S0031320326001421" target="_blank">ScienceDirect</a>
+    </li>
+   <li>
   A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
   <em>“PSMamba: Progressive Self-supervised Vision Mamba for Plant Disease Recognition”</em>,
   Expert Systems with Applications, 133775, 2026,  
@@ -16,12 +22,6 @@ excerpt: >
       <em>“StateSpace-SSL: Linear-Time Self-Supervised Learning for Plant Disease Detection”</em>,  
       AAAI 2026 Workshop on AI for Agriculture (AgriAI).  
       <a href="https://arxiv.org/abs/2512.09492" target="_blank">arXiv:2512.09492</a>
-    </li>
-    <li>
-       A. A. Mamun, <strong>M. Zhang</strong>, D. Ahmedt-Aristizabal, Z. Hayder, M. Awrangjeb,  
-      <em>“ConMamba: Contrastive Vision Mamba for Plant Disease Detection”</em>,  
-      Pattern Recognition, 2026,
-      <a href="https://arxiv.org/pdf/2506.03213" target="_blank">arXiv:2506.03213</a>
     </li>
     <li>
        A. Al Mamun, D. Ahmedt-Aristizabal, <strong>M. Zhang</strong>, M. I. Hossen, Z. Hayder, et al.,  
