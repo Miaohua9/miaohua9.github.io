@@ -8,6 +8,7 @@ regression tests to improve terminology accuracy and output stability. The assis
 workflow needs and can potentially reduce full case documentation time from about 10 minutes of manual
 typing to 1–2 minutes with voice input and quick review. Due to clinic confidentiality, only the high-level workflow and system architecture are shown.<br/><img src='/images/meditalk_multi_agent_architecture_4layer.png' style='margin-top: 15px;'>"
 collection: project
+projecturl: 'https://miaohua9.github.io/MediTalk-Clinical-Documentation-Assistant/'
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
